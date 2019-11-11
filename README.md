@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/bhargavamakwana/vim-tutorials)
+![GitHub repo size](https://img.shields.io/github/repo-size/bhargavamakwana/vim-tutorials)
+
 # Jump start with VIM 
 
 ## Install and set up plugins
