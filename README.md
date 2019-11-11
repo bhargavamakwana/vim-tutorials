@@ -9,6 +9,11 @@ The repo contains file for setting up the vim after installing it.
 
 ## Vim most essential commands
 
+Often more than not, people who tend to hate vim are either reluctant to learn and memorize the commands, largely because that seems too much and in other cases there is no proper documentation about it. 
+
+It is **highly recommended** to go through the help manual from the vim. It has all the essential commands, from beginner to advanced. However, some commands are already described below, which are used most frequently while coding.
+
+
 
 1. `:tabnew` starts a new tab with specified file or an empty file if not specified.
 2. `:tabn` switches to a new tab.
