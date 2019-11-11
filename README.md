@@ -1,11 +1,13 @@
-# Vimrc File
+# Jump start with VIM 
+
+## Install and set up plugins
+
+On your terminal run the following commands to install and setup VIM:
 
 
-The repo contains file for setting up the vim after installing it. 
-
-
-> **NOTE:** Please install vim first and the replace the file contents wih ~/.vimrc. If not present already, create and update. 
-
+`chmod +x setup.sh`
+<br>
+`./setup.sh`
 
 ## Vim most essential commands
 
