@@ -46,6 +46,7 @@ It is **highly recommended** to go through the help manual from the vim. It has 
 26. `zw` adds a word to the wrong or bad word list.
 27. `zuw` removes the word from the wrong word list.
 28. Press v to enter into visual mode. Then go over to the file to select text and yank it.
+
 ## Simple Search Patterns
 
 1. `^` is used for the beginning of the line. Thus if the pattern is to be searched for the beginning of every line `^[pattern]`. For example, `^the` searches for the word "the" at the beginning of every line.
